@@ -5,7 +5,7 @@ const NavBar = () => {
     <nav className="navbar navbar-expand-lg bg-light">
       <div className="container-fluid">
         <a className="navbar-brand" href="#">
-          Navbar
+          Start Bootstrap
         </a>
         <button
           className="navbar-toggler"
@@ -27,16 +27,16 @@ const NavBar = () => {
             </li>
             <li className="nav-item">
               <a className="nav-link" href="#">
-                Features
+                About
               </a>
             </li>
             <li className="nav-item">
               <a className="nav-link" href="#">
-                Pricing
+                Service
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link disabled">Disabled</a>
+              <a className="nav-link" href= "#">Contact</a>
             </li>
           </ul>
         </div>

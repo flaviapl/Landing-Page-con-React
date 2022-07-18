@@ -5,6 +5,7 @@ import NavBar from "./Navbar.jsx";
 const Home = () => {
 	return (
 		<NavBar />
+		
 	);
 };
 
