@@ -1,5 +1,6 @@
 import React from "react";
 import Jumbotron from "./Jumbotron.jsx";
+import Card from "./card.jsx";
 import NavBar from "./Navbar.jsx";
 import Footer from "./Footer.jsx";
 import "../../styles/index.css"
@@ -7,13 +8,18 @@ import "../../styles/index.css"
 //create your first component
 const Home = () => {
   return (
-    <div className="container">
+    <>
       <NavBar />
       <Jumbotron />
+      <Card/>
+		  <Card/>
+		  <Card/>
+		  <Card/>
       <Footer />
       
-    </div>
+    </>
   );
+  
 };
 
 export default Home;
