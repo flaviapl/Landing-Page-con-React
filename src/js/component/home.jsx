@@ -1,5 +1,6 @@
 import React from "react";
 import Jumbotron from "./Jumbotron.jsx";
+import Card from "./card.jsx";
 
 //include images into your bundle
 import rigoImage from "../../img/rigo-baby.jpg";
@@ -11,8 +12,13 @@ const Home = () => {
     <>
       <Jumbotron />
       <NavBar />
-    </>
-  );
+   
+		<Card/>
+		<Card/>
+		<Card/>
+		<Card/>
+		</>
+	);
 };
 
 export default Home;
