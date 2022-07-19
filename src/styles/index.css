@@ -1,6 +1,9 @@
 
-/* 
+.container {
+    min-height: 100vh;
+}
 
+<<<<<<< HEAD
     You can write your own styles here...
     
     
@@ -12,3 +15,12 @@
 */
 
 
+=======
+/* .card-footer{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right:0;
+    width: 100%;
+} */
+>>>>>>> 2da1ba6bfa442ac2e637fca71cac8891db875ab6
