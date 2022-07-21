@@ -10,28 +10,17 @@ const Home = () => {
   return (
     <>
       <NavBar />
-<<<<<<< HEAD
-      <Jumbotron />
-  <div className="row">
+      <div className="container1">
+        <Jumbotron />
+        <div className="row">
       <Card/>
 		  <Card/>
 		  <Card/>
 		  <Card/>
 	  </div>
-      <Footer />
-      
-  </>
-=======
-      <div className="container1">
-        <Jumbotron />
-        <Card />
-        <Card />
-        <Card />
-        <Card />
       </div>
       <Footer />
     </>
->>>>>>> origin/main
   );
 };
 
