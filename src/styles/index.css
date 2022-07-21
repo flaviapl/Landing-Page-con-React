@@ -17,13 +17,13 @@
 .botón {
     text-align: center;
 }
-/* .card-footer{
+.card-footer{
     position: absolute;
     bottom: 0;
     left: 0;
     right:0;
     width: 100%;
-} */
+}
 
 .cardd {
     background: rgb(228, 225, 225);
