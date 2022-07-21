@@ -11,13 +11,15 @@ const Home = () => {
     <>
       <NavBar />
       <Jumbotron />
+  <div className="row">
       <Card/>
 		  <Card/>
 		  <Card/>
 		  <Card/>
+	  </div>
       <Footer />
       
-    </>
+  </>
   );
   
 };
