@@ -1,6 +1,6 @@
 # Landing Page con React
 
-
+<img src="src/img/preview landing-page.png"/>
 ## Instrucciones :
 
 1) Vamos a construir este landing page pero utilizando react y components funcionales (de tipo función).
@@ -14,9 +14,6 @@ La idea es dividir los componentes de Bootstrap en diferentes componentes de fun
 - Noe, es la encargada de realizar los componentes "Navbar" y "Footer".
 
 Cada una ha trabajado en ramas propias, realizando merge y pull cuando era necesario.
-
-En el momento en el que el proyecto este finalizado por completo, se adjuntará una preview del mismo en el Readme.
-
 
 
 ## Instalación:
