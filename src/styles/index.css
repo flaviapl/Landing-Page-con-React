@@ -4,10 +4,11 @@
 }
 .card-img-top {
     height: 150px;
-    width: 100%;
+    min-width: 305px;
 }
 .cards{
-    max-width: 330px;
+    max-width: 350px;
+    
     /* padding-left: 20px; */
 }
 .card-title {
