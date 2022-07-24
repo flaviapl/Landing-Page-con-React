@@ -18,10 +18,7 @@
     text-align: center;
 }
 .card-footer{
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right:0;
+
     width: 100%;
 }
 
@@ -34,6 +31,7 @@
     width: 1200px;
     margin: auto;
     margin-top: 35px;
+    flex-grow: 1;
 }
 
 h2.card-title{
